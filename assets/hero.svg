@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" font-family="'Courier New',monospace">
+  <defs>
+    <radialGradient id="coreglow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00E5FF" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#00E5FF" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="360" fill="#05070A"/>
+  <rect width="900" height="360" fill="url(#grid)">
+    <animate attributeName="opacity" values="1;0.6;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="0" y="0" width="900" height="60" fill="url(#scan)">
+    <animate attributeName="y" values="-60;360" dur="7s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="8" y="8" width="884" height="344" fill="none" stroke="#12303C" stroke-width="1"/>
+  <path d="M8 40V8H40" fill="none" stroke="#00E5FF" stroke-width="2"/>
+  <path d="M860 8H892V40" fill="none" stroke="#00E5FF" stroke-width="2"/>
+  <path d="M892 320V352H860" fill="none" stroke="#00E5FF" stroke-width="2"/>
+  <path d="M40 352H8V320" fill="none" stroke="#00E5FF" stroke-width="2"/>
+  <line x1="60" y1="180" x2="700" y2="180" stroke="#00E5FF" stroke-opacity="0.18" stroke-dasharray="6 10">
+    <animate attributeName="stroke-dashoffset" values="0;-160" dur="5s" repeatCount="indefinite"/>
+  </line>
+  <g>
+    <circle cx="180" cy="70" r="1.8" fill="#7DD3FC"><animate attributeName="cy" values="70;90;70" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0.2;0.9" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="320" cy="300" r="1.5" fill="#00E5FF"><animate attributeName="cy" values="300;278;300" dur="6.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0.15;0.7" dur="6.5s" repeatCount="indefinite"/></circle>
+    <circle cx="520" cy="60" r="1.6" fill="#B388FF"><animate attributeName="cy" values="60;82;60" dur="7.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0.2;0.8" dur="7.5s" repeatCount="indefinite"/></circle>
+    <circle cx="640" cy="300" r="1.8" fill="#7DD3FC"><animate attributeName="cy" values="300;320;300" dur="5.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0.25;0.9" dur="5.6s" repeatCount="indefinite"/></circle>
+    <circle cx="90" cy="300" r="1.4" fill="#B388FF"><animate attributeName="cy" values="300;284;300" dur="4.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0.2;0.7" dur="4.6s" repeatCount="indefinite"/></circle>
+    <circle cx="430" cy="40" r="1.4" fill="#00E5FF"><animate attributeName="cy" values="40;58;40" dur="6.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0.2;0.8" dur="6.1s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="62" y="62" font-size="11" fill="#5B6B7F" letter-spacing="3">NISHAN_OS v2.6 // COMMAND CENTER</text>
+  <text x="62" y="78" font-size="10" fill="#31404F" letter-spacing="2">SIGNAL LOCKED <tspan fill="#00E5FF">●</tspan><animate attributeName="opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite"/></text>
+  <g>
+    <text x="64" y="152" font-size="34" font-weight="bold" fill="#00E5FF" opacity="0.35" letter-spacing="4">NISHAN // CREATOR PROTOCOL<animate attributeName="opacity" values="0;0.35;0;0.25;0" dur="3.1s" repeatCount="indefinite"/><animate attributeName="x" values="64;66;63;64" dur="3.1s" repeatCount="indefinite"/></text>
+    <text x="64" y="152" font-size="34" font-weight="bold" fill="#B388FF" opacity="0.3" letter-spacing="4">NISHAN // CREATOR PROTOCOL<animate attributeName="opacity" values="0;0;0.3;0;0.2;0" dur="2.7s" repeatCount="indefinite"/><animate attributeName="x" values="64;62;65;64" dur="2.7s" repeatCount="indefinite"/></text>
+    <text x="62" y="152" font-size="34" font-weight="bold" fill="#F2F5F9" letter-spacing="4">NISHAN // CREATOR PROTOCOL</text>
+  </g>
+  <text x="62" y="182" font-size="14" fill="#00E5FF" letter-spacing="6">PLAYER 01 &#183; WORLD BUILDER</text>
+  <text x="62" y="210" font-size="15" fill="#B388FF" letter-spacing="5">CODE &#215; CREATE &#215; GAME<animate attributeName="opacity" values="1;0.75;1" dur="4s" repeatCount="indefinite"/></text>
+  <g font-size="12" letter-spacing="2">
+    <text x="62" y="258" fill="#5B6B7F">SYSTEM<tspan fill="#31404F"> ......... </tspan><tspan fill="#00E5FF">ONLINE</tspan></text>
+    <text x="62" y="278" fill="#5B6B7F">GITHUB<tspan fill="#31404F"> ......... </tspan><tspan fill="#00E5FF">CONNECTED</tspan></text>
+    <text x="62" y="298" fill="#5B6B7F">CREATOR CORE<tspan fill="#31404F"> .... </tspan><tspan fill="#00E5FF">ACTIVE</tspan></text>
+    <text x="62" y="318" fill="#5B6B7F">3D MODULE<tspan fill="#31404F"> ....... </tspan><tspan fill="#FF9E64">LEARNING</tspan></text>
+    <text x="62" y="338" fill="#5B6B7F">GAME DEV<tspan fill="#31404F"> ........ </tspan><tspan fill="#FF9E64">LEARNING</tspan></text>
+  </g>
+  <circle cx="276" cy="254" r="2.5" fill="#00E5FF"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+  <g transform="translate(770,175)">
+    <circle r="120" fill="url(#coreglow)"><animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/></circle>
+    <circle r="105" fill="none" stroke="#00E5FF" stroke-opacity="0.5" stroke-dasharray="40 18 8 18">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="82" fill="none" stroke="#B388FF" stroke-opacity="0.45" stroke-dasharray="6 12">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="58" fill="none" stroke="#7DD3FC" stroke-opacity="0.35" stroke-dasharray="90 30">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="16" fill="#00E5FF" opacity="0.9">
+      <animate attributeName="r" values="13;19;13" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0.5;0.9" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="5" fill="#F2F5F9"/>
+    <line x1="0" y1="-105" x2="0" y2="-92" stroke="#00E5FF" stroke-width="2"/>
+    <text x="0" y="140" font-size="10" fill="#5B6B7F" letter-spacing="3" text-anchor="middle">CREATOR CORE</text>
+  </g>
+  <text x="850" y="332" font-size="9" fill="#31404F" text-anchor="end" letter-spacing="1">SYS.STATUS: STABLE // RENDER: LIVE</text>
+</svg>
