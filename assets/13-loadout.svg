@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" font-family="'Courier New',monospace">
+  <rect width="900" height="380" fill="#05070A"/>
+  <rect x="8" y="8" width="884" height="364" fill="none" stroke="#12303C"/>
+  <text x="40" y="42" font-size="13" fill="#00E5FF" letter-spacing="4">CURRENT LOADOUT // EQUIPPED</text>
+  <line x1="40" y1="56" x2="860" y2="56" stroke="#12303C" stroke-dasharray="5 7">
+    <animate attributeName="stroke-dashoffset" values="0;-120" dur="6s" repeatCount="indefinite"/>
+  </line>
+  <g font-size="12">
+    <g>
+      <rect x="40" y="80" width="195" height="120" rx="6" fill="#0D1117" stroke="#00E5FF">
+        <animate attributeName="stroke-opacity" values="1;0.5;1" dur="2.4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="56" y="104" font-size="9" fill="#31404F" letter-spacing="2">PRIMARY WEAPON</text>
+      <text x="56" y="132" font-size="18" font-weight="bold" fill="#F2F5F9">C++</text>
+      <text x="56" y="156" font-size="10" fill="#00E5FF" letter-spacing="2">STATUS: ACTIVE</text>
+      <path d="M207 168 l8 10 -8 10 -8 -10 Z" fill="#7DD3FC"/>
+      <text x="56" y="186" font-size="10" fill="#7DD3FC" letter-spacing="2">RARITY: RARE</text>
+    </g>
+    <g>
+      <rect x="255" y="80" width="195" height="120" rx="6" fill="#0D1117" stroke="#12303C"/>
+      <text x="271" y="104" font-size="9" fill="#31404F" letter-spacing="2">SECONDARY</text>
+      <text x="271" y="132" font-size="18" font-weight="bold" fill="#F2F5F9">HTML / CSS</text>
+      <text x="271" y="156" font-size="10" fill="#00E5FF" letter-spacing="2">STATUS: ACTIVE</text>
+      <path d="M422 168 l8 10 -8 10 -8 -10 Z" fill="#7DD3FC"/>
+      <text x="271" y="186" font-size="10" fill="#7DD3FC" letter-spacing="2">RARITY: RARE</text>
+    </g>
+    <g>
+      <rect x="470" y="80" width="195" height="120" rx="6" fill="#0D1117" stroke="#12303C"/>
+      <text x="486" y="104" font-size="9" fill="#31404F" letter-spacing="2">CREATIVE TOOL</text>
+      <text x="486" y="132" font-size="18" font-weight="bold" fill="#F2F5F9">PHOTOSHOP</text>
+      <text x="486" y="156" font-size="10" fill="#00E5FF" letter-spacing="2">STATUS: ACTIVE</text>
+      <path d="M637 168 l8 10 -8 10 -8 -10 Z" fill="#B388FF"/>
+      <text x="486" y="186" font-size="10" fill="#B388FF" letter-spacing="2">RARITY: EPIC</text>
+    </g>
+    <g>
+      <rect x="685" y="80" width="195" height="120" rx="6" fill="#0D1117" stroke="#12303C"/>
+      <text x="701" y="104" font-size="9" fill="#31404F" letter-spacing="2">VISUAL MODULE</text>
+      <text x="701" y="132" font-size="18" font-weight="bold" fill="#F2F5F9">VIDEO EDITING</text>
+      <text x="701" y="156" font-size="10" fill="#00E5FF" letter-spacing="2">STATUS: ACTIVE</text>
+      <path d="M852 168 l8 10 -8 10 -8 -10 Z" fill="#B388FF"/>
+      <text x="701" y="186" font-size="10" fill="#B388FF" letter-spacing="2">RARITY: EPIC</text>
+    </g>
+    <g>
+      <rect x="40" y="220" width="195" height="120" rx="6" fill="#0D1117" stroke="#12303C"/>
+      <text x="56" y="244" font-size="9" fill="#31404F" letter-spacing="2">COLOR MODULE</text>
+      <text x="56" y="272" font-size="18" font-weight="bold" fill="#F2F5F9">COLOR GRADING</text>
+      <text x="56" y="296" font-size="10" fill="#00E5FF" letter-spacing="2">STATUS: ACTIVE</text>
+      <path d="M207 308 l8 10 -8 10 -8 -10 Z" fill="#B388FF"/>
+      <text x="56" y="326" font-size="10" fill="#B388FF" letter-spacing="2">RARITY: EPIC</text>
+    </g>
+    <g>
+      <rect x="255" y="220" width="195" height="120" rx="6" fill="#0D1117" stroke="#FF9E64" stroke-opacity="0.6" stroke-dasharray="5 4"/>
+      <text x="271" y="244" font-size="9" fill="#31404F" letter-spacing="2">WORLD-BUILDING MODULE</text>
+      <text x="271" y="272" font-size="18" font-weight="bold" fill="#F2F5F9">3D MODELLING</text>
+      <text x="271" y="296" font-size="10" fill="#FF9E64" letter-spacing="2">STATUS: LEARNING</text>
+      <path d="M422 308 l8 10 -8 10 -8 -10 Z" fill="#FF9E64"><animate attributeName="opacity" values="1;0.4;1" dur="1.8s" repeatCount="indefinite"/></path>
+      <text x="271" y="326" font-size="10" fill="#FF9E64" letter-spacing="2">RARITY: LEGENDARY</text>
+    </g>
+    <g>
+      <rect x="470" y="220" width="195" height="120" rx="6" fill="#0D1117" stroke="#FF9E64" stroke-opacity="0.6" stroke-dasharray="5 4"/>
+      <text x="486" y="244" font-size="9" fill="#31404F" letter-spacing="2">GAME MODULE</text>
+      <text x="486" y="272" font-size="18" font-weight="bold" fill="#F2F5F9">GAME DEV</text>
+      <text x="486" y="296" font-size="10" fill="#FF9E64" letter-spacing="2">STATUS: LEARNING</text>
+      <path d="M637 308 l8 10 -8 10 -8 -10 Z" fill="#FF9E64"><animate attributeName="opacity" values="1;0.4;1" dur="2.2s" repeatCount="indefinite"/></path>
+      <text x="486" y="326" font-size="10" fill="#FF9E64" letter-spacing="2">RARITY: LEGENDARY</text>
+    </g>
+    <g>
+      <rect x="685" y="220" width="195" height="120" rx="6" fill="#0D1117" stroke="#12303C"/>
+      <text x="701" y="244" font-size="9" fill="#31404F" letter-spacing="2">PASSIVE</text>
+      <text x="701" y="272" font-size="18" font-weight="bold" fill="#F2F5F9">PRODUCTIVITY</text>
+      <text x="701" y="296" font-size="10" fill="#00E5FF" letter-spacing="2">STATUS: ACTIVE</text>
+      <path d="M852 308 l8 10 -8 10 -8 -10 Z" fill="#8B98A9"/>
+      <text x="701" y="326" font-size="10" fill="#8B98A9" letter-spacing="2">RARITY: COMMON</text>
+    </g>
+  </g>
+  <text x="40" y="366" font-size="9" fill="#31404F" letter-spacing="2">RARITY IS A UI CONCEPT, NOT A CLAIM &#183; SLOTS ARE EDITABLE</text>
+</svg>
+

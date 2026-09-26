@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340" font-family="'Courier New',monospace">
+  <rect width="900" height="340" fill="#05070A"/>
+  <rect x="8" y="8" width="884" height="324" fill="none" stroke="#12303C"/>
+  <text x="40" y="42" font-size="13" fill="#00E5FF" letter-spacing="4">MISSION ROADMAP // LONG-TERM ARC</text>
+  <line x1="40" y1="56" x2="860" y2="56" stroke="#12303C" stroke-dasharray="5 7"/>
+  <line x1="85" y1="150" x2="815" y2="150" stroke="#12303C" stroke-width="2"/>
+  <line x1="85" y1="150" x2="815" y2="150" stroke="#00E5FF" stroke-opacity="0.35" stroke-dasharray="3 9">
+    <animate attributeName="stroke-dashoffset" values="0;-48" dur="1.6s" repeatCount="indefinite"/>
+  </line>
+  <g font-size="11" text-anchor="middle">
+    <circle cx="85" cy="150" r="10" fill="#00E5FF"/>
+    <circle cx="85" cy="150" r="10" fill="none" stroke="#00E5FF"><animate attributeName="r" values="10;18" dur="2s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.6;0" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="85" y="120" fill="#F2F5F9" letter-spacing="1">PHASE 01</text>
+    <text x="85" y="185" fill="#00E5FF" letter-spacing="1">CODE</text>
+    <text x="85" y="203" font-size="9" fill="#00E5FF" letter-spacing="1">ACTIVE</text>
+    <circle cx="207" cy="150" r="10" fill="#00E5FF"/>
+    <text x="207" y="120" fill="#F2F5F9" letter-spacing="1">PHASE 02</text>
+    <text x="207" y="185" fill="#00E5FF" letter-spacing="1">CREATE</text>
+    <text x="207" y="203" font-size="9" fill="#00E5FF" letter-spacing="1">ACTIVE</text>
+    <circle cx="328" cy="150" r="10" fill="#0D1117" stroke="#FF9E64" stroke-width="2">
+      <animate attributeName="stroke-opacity" values="1;0.4;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="328" y="120" fill="#F2F5F9" letter-spacing="1">PHASE 03</text>
+    <text x="328" y="185" fill="#FF9E64" letter-spacing="1">3D</text>
+    <text x="328" y="203" font-size="9" fill="#FF9E64" letter-spacing="1">LEARNING</text>
+    <circle cx="450" cy="150" r="10" fill="#0D1117" stroke="#FF9E64" stroke-width="2">
+      <animate attributeName="stroke-opacity" values="1;0.4;1" dur="2.1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="450" y="120" fill="#F2F5F9" letter-spacing="1">PHASE 04</text>
+    <text x="450" y="185" fill="#FF9E64" letter-spacing="1">GAME DEV</text>
+    <text x="450" y="203" font-size="9" fill="#FF9E64" letter-spacing="1">LEARNING</text>
+    <circle cx="572" cy="150" r="10" fill="#0D1117" stroke="#7DD3FC" stroke-width="2" stroke-dasharray="3 3"/>
+    <text x="572" y="120" fill="#F2F5F9" letter-spacing="1">PHASE 05</text>
+    <text x="572" y="180" font-size="10" fill="#7DD3FC" letter-spacing="1">INTERACTIVE</text><text x="572" y="193" font-size="10" fill="#7DD3FC" letter-spacing="1">WORLDS</text>
+    <text x="572" y="209" font-size="9" fill="#7DD3FC" letter-spacing="1">NEXT</text>
+    <circle cx="693" cy="150" r="10" fill="#0D1117" stroke="#3A4454" stroke-width="2"/>
+    <text x="693" y="120" fill="#5B6B7F" letter-spacing="1">PHASE 06</text>
+    <text x="693" y="180" font-size="10" fill="#5B6B7F" letter-spacing="1">ADVANCED</text><text x="693" y="193" font-size="10" fill="#5B6B7F" letter-spacing="1">PROJECTS</text>
+    <text x="693" y="209" font-size="9" fill="#3A4454" letter-spacing="1">LOCKED</text>
+    <circle cx="815" cy="150" r="10" fill="#0D1117" stroke="#3A4454" stroke-width="2"/>
+    <text x="815" y="120" fill="#5B6B7F" letter-spacing="1">PHASE 07</text>
+    <text x="815" y="185" fill="#5B6B7F" letter-spacing="1">OPEN SOURCE</text>
+    <text x="815" y="203" font-size="9" fill="#3A4454" letter-spacing="1">LOCKED</text>
+  </g>
+  <text x="450" y="268" font-size="11" fill="#C9D1D9" text-anchor="middle" letter-spacing="2">BUILDING WORLDS, ONE SYSTEM AT A TIME.</text>
+  <text x="450" y="296" font-size="9" fill="#31404F" text-anchor="middle" letter-spacing="2">GOALS AND DIRECTIONS &#183; NOT CLAIMS OF COMPLETED WORK</text>
+</svg>
+

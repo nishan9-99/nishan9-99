@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" font-family="'Courier New',monospace">
+  <defs>
+    <linearGradient id="footbar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#B388FF"/>
+    </linearGradient>
+    <linearGradient id="footshine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="300" fill="#05070A"/>
+  <rect x="8" y="8" width="884" height="284" fill="none" stroke="#12303C"/>
+  <path d="M8 38V8H38 M862 8h30v30 M892 262v30h-30 M38 292H8v-30" fill="none" stroke="#00E5FF" stroke-width="2"/>
+  <text x="40" y="48" font-size="11" fill="#31404F" letter-spacing="3">SYSTEM STATUS</text>
+  <rect x="40" y="60" width="560" height="14" fill="#0D1117" stroke="#12303C"/>
+  <rect x="42" y="62" width="556" height="10" fill="url(#footbar)" opacity="0.9"/>
+  <rect x="42" y="62" width="80" height="10" fill="url(#footshine)">
+    <animate attributeName="x" values="-40;600" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="614" y="72" font-size="12" fill="#00E5FF" letter-spacing="2">ONLINE</text>
+  <g font-size="12" letter-spacing="2">
+    <text x="40" y="112" fill="#5B6B7F">PLAYER <tspan fill="#31404F">............. </tspan><tspan fill="#F2F5F9">NISHAN GIRI</tspan></text>
+    <text x="40" y="138" fill="#5B6B7F">CLASS <tspan fill="#31404F">.............. </tspan><tspan fill="#B388FF">WORLD BUILDER</tspan></text>
+    <text x="40" y="164" fill="#5B6B7F">CURRENT OBJECTIVE <tspan fill="#31404F">.. </tspan><tspan fill="#00E5FF">KEEP BUILDING.</tspan></text>
+    <text x="40" y="190" fill="#5B6B7F">NEXT LEVEL <tspan fill="#31404F">......... </tspan><tspan fill="#FF9E64">UNKNOWN</tspan></text>
+  </g>
+  <text x="40" y="230" font-size="13" fill="#8B98A9" letter-spacing="1">&gt; END OF TRANSMISSION</text>
+  <rect x="238" y="219" width="10" height="15" fill="#00E5FF">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="450" y="272" font-size="16" font-weight="bold" fill="#F2F5F9" text-anchor="middle" letter-spacing="8">CODE &#215; CREATE &#215; GAME<animate attributeName="opacity" values="1;0.8;1" dur="4s" repeatCount="indefinite"/></text>
+</svg>
+
