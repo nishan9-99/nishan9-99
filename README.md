@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="mailto:gireenishan10@gmail.com"><img src="https://img.shields.io/badge/Email-0b1626?style=for-the-badge&logo=gmail&logoColor=22d3ee"/></a> <a href="https://www.linkedin.com/in/nishan-giree-264700339/"><img src="https://img.shields.io/badge/LinkedIn-0b1626?style=for-the-badge&logo=linkedin&logoColor=22d3ee"/></a> <a href="https://nishan9-99.github.io"><img src="https://img.shields.io/badge/Portfolio-0b1626?style=for-the-badge&logo=githubpages&logoColor=22d3ee"/></a>
+<a href="https://www.linkedin.com/in/nishan-giree/"><img src="https://img.shields.io/badge/LinkedIn-0b1626?style=for-the-badge&logo=linkedin&logoColor=22d3ee"/></a> <a href="https://nishan9-99.github.io"><img src="https://img.shields.io/badge/Portfolio-0b1626?style=for-the-badge&logo=githubpages&logoColor=22d3ee"/></a>
 
 </div>
 
