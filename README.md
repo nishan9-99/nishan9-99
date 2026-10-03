@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="profile.sh --live: Nishan Giri (Fragger), BE CSE student, Bengaluru" width="100%"/>
+<img src="assets/hero-hud.svg" alt="profile.sh --live: Nishan Giri (Fragger), BE CSE student, Bengaluru" width="100%"/>
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ## `> toolchain.status`
 
-<div align="center"><img src="assets/toolchain.svg" alt="Toolchain status: using and learning" width="100%"/></div>
+<div align="center"><img src="assets/toolchain-hud.svg" alt="Toolchain status: using and learning" width="100%"/></div>
 
 ## `> projects --list`
 
