@@ -27,22 +27,3 @@
 <td><a href="https://github.com/nishan9-99/quest-hud"><img src="assets/card-quest-hud.svg" width="430"/></a></td>
 </tr></table>
 </div>
-
-## `> stats --live`
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nishan9-99&show_icons=true&hide_rank=true&bg_color=070d17&title_color=22d3ee&text_color=9fb3c8&icon_color=3b82f6&border_color=12385a&hide_border=false" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishan9-99&layout=compact&hide_border=false&bg_color=070d17&title_color=22d3ee&text_color=9fb3c8&border_color=12385a" alt="Most used languages"/>
-<br/>
-<img src="https://streak-stats.demolab.com/?user=nishan9-99&background=070d17&ring=22d3ee&fire=3b82f6&currStreakLabel=22d3ee&sideLabels=9fb3c8&currStreakNum=e2f2ff&sideNums=e2f2ff&dates=50657d&stroke=12385a&border=12385a" alt="Contribution streak"/>
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishan9-99&theme=tokyonight" alt="Profile summary"/>
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=nishan9-99&label=PROFILE+VIEWS&style=flat-square&color=22d3ee&labelColor=0b1626" alt="Profile views"/>
-
-<sub><code>stats refresh automatically from the GitHub API. built by Nishan Giri (Fragger).</code></sub>
-
-</div>
