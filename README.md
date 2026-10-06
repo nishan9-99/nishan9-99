@@ -23,7 +23,6 @@
 <td><a href="https://github.com/nishan9-99/smart-hostel-management-system"><img src="assets/card-smart-hostel.svg" width="430"/></a></td>
 <td><a href="https://github.com/nishan9-99/neon-rift"><img src="assets/card-neon-rift.svg" width="430"/></a></td>
 </tr><tr>
-<td><a href="https://github.com/nishan9-99/kyadekhein"><img src="assets/card-kyadekhein.svg" width="430"/></a></td>
-<td><a href="https://github.com/nishan9-99/quest-hud"><img src="assets/card-quest-hud.svg" width="430"/></a></td>
+<td colspan="2" align="center"><a href="https://github.com/nishan9-99/quest-hud"><img src="assets/card-quest-hud.svg" width="430"/></a></td>
 </tr></table>
 </div>
